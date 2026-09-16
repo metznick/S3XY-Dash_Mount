@@ -1,6 +1,6 @@
 # S3XY Dash Mount
 
-![alt text.](https://github.com/metznick/S3XY-Dash_Mount/pictures/20260813_235341.jpg)
+![alt text.](pictures/20260813_235341.jpg)
 
 
 ### Intro
